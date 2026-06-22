@@ -1,0 +1,6 @@
+sale_id,order_id,product_id,quantity,total_amount
+1,1,1,1,55000
+2,2,2,2,40000
+3,3,3,3,6000
+4,4,4,2,3000
+5,5,5,5,4000

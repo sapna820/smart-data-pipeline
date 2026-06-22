@@ -1,0 +1,6 @@
+sale_id,name,city,product_name,category,quantity,price,revenue
+1,Amit Sharma,Pune,Laptop,Electronics,1,55000,55000
+2,Neha Patil,Mumbai,Mobile,Electronics,2,20000,40000
+3,Ravi Kumar,Delhi,Headphones,Accessories,3,2000,6000
+4,Pooja Deshmukh,Nagpur,Keyboard,Accessories,2,1500,3000
+5,Sneha Joshi,Pune,Mouse,Accessories,5,800,4000

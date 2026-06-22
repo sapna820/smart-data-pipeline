@@ -1,0 +1,36 @@
+2026-06-22 20:27:40,463 - INFO - Starting ETL Pipeline
+2026-06-22 20:27:40,538 - INFO - package: mysql.connector.plugins
+2026-06-22 20:27:40,538 - INFO - plugin_name: caching_sha2_password
+2026-06-22 20:27:40,538 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-22 20:28:09,551 - INFO - Starting ETL Pipeline
+2026-06-22 20:28:09,625 - INFO - package: mysql.connector.plugins
+2026-06-22 20:28:09,625 - INFO - plugin_name: caching_sha2_password
+2026-06-22 20:28:09,625 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-22 20:30:54,585 - INFO - Starting ETL Pipeline
+2026-06-22 20:30:54,667 - INFO - package: mysql.connector.plugins
+2026-06-22 20:30:54,667 - INFO - plugin_name: caching_sha2_password
+2026-06-22 20:30:54,668 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-22 20:31:51,615 - INFO - Starting ETL Pipeline
+2026-06-22 20:31:51,694 - INFO - package: mysql.connector.plugins
+2026-06-22 20:31:51,694 - INFO - plugin_name: caching_sha2_password
+2026-06-22 20:31:51,694 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-22 20:32:11,369 - INFO - Starting ETL Pipeline
+2026-06-22 20:32:11,448 - INFO - package: mysql.connector.plugins
+2026-06-22 20:32:11,448 - INFO - plugin_name: caching_sha2_password
+2026-06-22 20:32:11,448 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-22 20:33:16,921 - INFO - Starting ETL Pipeline
+2026-06-22 20:33:16,999 - INFO - package: mysql.connector.plugins
+2026-06-22 20:33:16,999 - INFO - plugin_name: caching_sha2_password
+2026-06-22 20:33:16,999 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2026-06-22 21:33:40,375 - INFO - Starting ETL Pipeline
+2026-06-22 21:33:40,385 - INFO - Data Extracted Successfully
+2026-06-22 21:33:40,391 - INFO - Data Validation Completed
+2026-06-22 21:33:40,397 - INFO - Data Transformed Successfully
+2026-06-22 21:33:40,402 - INFO - Data Loaded Successfully
+2026-06-22 21:33:40,402 - INFO - ETL Pipeline Completed Successfully
+2026-06-22 21:34:40,511 - INFO - Starting ETL Pipeline
+2026-06-22 21:34:40,520 - INFO - Data Extracted Successfully
+2026-06-22 21:34:40,529 - INFO - Data Validation Completed
+2026-06-22 21:34:40,535 - INFO - Data Transformed Successfully
+2026-06-22 21:34:40,542 - INFO - Data Loaded Successfully
+2026-06-22 21:34:40,542 - INFO - ETL Pipeline Completed Successfully
