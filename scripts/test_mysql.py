@@ -3,7 +3,7 @@ import mysql.connector
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="YOUR_REAL_PASSWORD",
+    password="root",
     database="ecommerce_dw",
     auth_plugin="mysql_native_password"
 )
